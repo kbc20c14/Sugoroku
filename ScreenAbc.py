@@ -4,6 +4,8 @@ from pygame.locals import *
 
 import sys
 
+#gittest
+
 # 初期化
 pygame.init()
 # global
